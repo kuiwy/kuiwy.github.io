@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-31T07:05:17.262Z</updated>
+  <updated>2016-05-31T08:26:41.187Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/05/31/%E6%9C%AA%E9%80%89%E6%8B%A9%E7%9A%84%E8%B7%AF/"/>
     <id>http://yoursite.com/2016/05/31/未选择的路/</id>
     <published>2016-05-31T06:17:50.000Z</published>
-    <updated>2016-05-31T07:05:17.262Z</updated>
+    <updated>2016-05-31T08:26:41.187Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;p&gt;黄色的树林里分出两条路，&lt;br&gt;可惜我不能同时去涉足，&lt;br&gt;我在那路口久久伫立，&lt;br&gt;我向着一条路极目望去，&lt;br&gt;直到它消失在丛林深处。&lt;/p&gt;
@@ -44,6 +44,10 @@
     
     </summary>
     
+      <category term="感时伤怀" scheme="http://yoursite.com/categories/%E6%84%9F%E6%97%B6%E4%BC%A4%E6%80%80/"/>
+    
+    
+      <category term="感时伤怀" scheme="http://yoursite.com/tags/%E6%84%9F%E6%97%B6%E4%BC%A4%E6%80%80/"/>
     
   </entry>
   
